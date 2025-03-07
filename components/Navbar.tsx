@@ -10,7 +10,7 @@ const Navbar = () => {
       <Link href="/" className="flex items-center gap-1">
         <Image
           src="/images/cu.png"
-          width={240}
+          width={220}
           height={800}
           alt="CU logo"
           className="max-sm:size-10"
